@@ -1,2 +1,2 @@
 # FreqFunc
-some frequently used function in php
+some frequently used function in php rewrite by zephir
